@@ -1,4 +1,4 @@
 # git_demo
 Revising git
 <br>
-Author: Deottam Prasad
+Author: Deottam Prasad (DP)
